@@ -130,11 +130,11 @@ Data bergantung pada laporan warga dan belum ada verifikasi otomatis. Data SPBU 
 
 ## Pengembang
 
-Kelompok 1 
+Kelompok 1 ,
 Anggota :
-Agil Miswary
-Abdullah Nur
-Muh Ilham Ismail
+Agil Miswary, 
+Abdullah Nur, 
+Muh Ilham Ismail, 
 
 Mata kuliah Pemrograman Berbasis Objek, Teknik Informatika.
 
