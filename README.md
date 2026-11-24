@@ -134,7 +134,7 @@ Kelompok 1 ,
 Anggota :
 Agil Miswary, 
 Abdullah Nur, 
-Muh Ilham Ismail, 
+Muh Ilham Ismail
 
 Mata kuliah Pemrograman Berbasis Objek, Teknik Informatika.
 
