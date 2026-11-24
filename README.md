@@ -130,9 +130,14 @@ Data bergantung pada laporan warga dan belum ada verifikasi otomatis. Data SPBU 
 
 ## Pengembang
 
-Nama: **...............**
+Kelompok 1 
+Anggota :
+Agil Miswary
+Abdullah Nur
+Muh Ilham Ismail
+
 Mata kuliah Pemrograman Berbasis Objek, Teknik Informatika.
 
 ## Lisensi
 
-Proyek ini dibuat untuk keperluan pembelajaran. Tambahkan lisensi (misalnya MIT) bila ingin dibagikan secara terbuka.
+Proyek ini dibuat untuk keperluan pembelajaran. 
